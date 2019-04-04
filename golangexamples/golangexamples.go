@@ -11,6 +11,10 @@ func ConcatSlice(sliceToConcat []byte) string {
 
 	for index := 0; index < len(sliceToConcat); index++ {
 		stringRep = stringRep + string(sliceToConcat[index])
+
+		if index+1 != len(sliceToConcat) {
+			stringRep = stringRep + "-"
+		}
 	}
 
 	return stringRep
