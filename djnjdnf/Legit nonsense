@@ -1,0 +1,13 @@
+#include <iostream>
+
+using namespace std;
+
+void main()
+{
+//eekkenjdn
+	cout<<"Kill Your Darlings"<<endl;
+
+	cout<<"Kill Yourself then"<<endl;
+
+	cout<<"FFF"<<endl;
+}
