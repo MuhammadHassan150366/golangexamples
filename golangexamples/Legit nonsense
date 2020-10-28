@@ -7,4 +7,6 @@ void main()
 	cout<<"Kill Your Darlings"<<endl;
 
 	cout<<"Kill Yourself then"<<endl;
+
+	cout<<"FFF"<<endl;
 }
